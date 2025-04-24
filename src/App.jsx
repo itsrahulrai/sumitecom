@@ -33,7 +33,7 @@ const App = () => {
       <Card 
         cardtitle="Best Selling Products" 
         cardsubtitle="Follow the most popular trends and get exclusive items from E-Store." 
-      />
+      />  
       <WelocomeMarquee/>
       <Testimonial/>
       <Footer/>
